@@ -1,0 +1,7 @@
+.container .form-group ul{
+    list-style-type: none;
+    padding:0;
+}
+.container #visible{
+    display:none;
+}
